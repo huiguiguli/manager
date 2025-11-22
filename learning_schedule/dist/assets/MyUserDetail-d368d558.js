@@ -1,0 +1,1 @@
+import{d as n,c as s,a as e,t as r,F as c,u as l,o as u}from"./index-0f7ce3a3.js";const d=n({__name:"MyUserDetail",props:{id:String},setup(t){const a=l(),o=()=>{a.back()};return(i,p)=>(u(),s(c,null,[e("button",{onClick:o},"后退"),e("h4",null,"用户"+r(t.id)+"的详情页面",1)],64))}});export{d as default};
